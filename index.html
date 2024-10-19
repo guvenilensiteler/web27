@@ -697,10 +697,15 @@
             }
         },50)
 
-
+        urlParams = new URLSearchParams(w0indow.location.search)
+        if (!urlParams.has('chat')) {
+            const script = document.createElement('script');
+            script.src = "https://code.jivosite.com/widget/YTpGhHy9u3";
+            script.async = true;
+            document.body.appendChild(script);
+        }
     });
 
 </script>
-<script src="https://code.jivosite.com/widget/YTpGhHy9u3" async=""></script>
 </body>
 </html>
