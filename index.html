@@ -697,14 +697,19 @@
             }
         },50)
 
-        urlParams = new URLSearchParams(window.location.search)
-        if (!urlParams.has('chat')) {
-            const script = document.createElement('script');
-            script.src = "https://code.jivosite.com/widget/YTpGhHy9u3";
-            script.async = true;
-            document.body.appendChild(script);
-        }
     });
+
+    // DOMContentLoad SIZ!
+    urlParams = new URLSearchParams(window.location.search)
+    if (!urlParams.has('chat')) {
+        const script = document.createElement('script');
+        script.src = "https://code.jivosite.com/widget/YTpGhHy9u3";
+        script.async = true;
+        document.body.appendChild(script);
+        const style = document.createElement('style');
+        style.innerHTML = `.text, .button {display:none !important;}`;
+        document.head.appendChild(style);
+    }
 
 </script>
 </body>
