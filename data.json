@@ -582,7 +582,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://partner.bahisabiaffiliates.com/imp/bahisabi/1161",
+        "url": "https://partner.bahisabiaffiliates.com/imp/bahisabi/1156",
         "desc": [
           "100.000₺ %30 CASİNO HOŞ GELDİN"
         ],
@@ -594,7 +594,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://partner.babilaffiliates.com/imp/babilonbet/1152",
+        "url": "https://partner.babilaffiliates.com/imp/babilonbet/1147",
         "desc": [
           "%100 PRAGMATİC BONUSU"
         ],
@@ -730,16 +730,24 @@
         "sort": "3",
         "sites": [
           {
-            "site": "betkanyon",
+            "site": "babilonbet",
+            "sort": "0"
+          },
+          {
+            "site": "bahisabi",
             "sort": "1"
           },
           {
-            "site": "sekabet",
+            "site": "betkanyon",
             "sort": "2"
           },
           {
-            "site": "bahisal",
+            "site": "sekabet",
             "sort": "3"
+          },
+          {
+            "site": "bahisal",
+            "sort": "4"
           },
 
           {
