@@ -504,7 +504,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://t2m.io/mersogeday",
+        "url": "https://t2m.io/mersoogeday",
         "desc": [
           "100₺ Deneme Bonusu Sınırsız Çekim"
         ],
@@ -729,14 +729,7 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
-          {
-            "site": "babilonbet",
-            "sort": "0"
-          },
-          {
-            "site": "bahisabi",
-            "sort": "1"
-          },
+
           {
             "site": "betkanyon",
             "sort": "2"
@@ -791,6 +784,10 @@
           {
             "site": "zlot",
             "sort": "24"
+          },
+          {
+            "site": "mersobahis",
+            "sort": "25"
           }
         ]
       },
