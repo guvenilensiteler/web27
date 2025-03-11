@@ -639,6 +639,19 @@
         "miktar": "₺150",
         "promo_code_yok": "HEMEN ÜYE OL BONUSU AL!",
         "slider_img": ""
+      },
+      {
+        "url": "https://primebahis.wiki/prime2",
+        "desc": [
+          "KAYIT OL 444 FREESPIN AL"
+        ],
+        "site": "primebahis",
+        "sort": null,
+        "color": "#1a98ff",
+        "miktar": "444FS",
+        "promo_code": null,
+        "promo_code_yok": "444 FREESPIN DENEME BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -785,8 +798,12 @@
             "sort": "24"
           },
           {
-            "site": "mersobahis",
+            "site": "primebahis",
             "sort": "25"
+          },
+          {
+            "site": "mersobahis",
+            "sort": "26"
           }
         ]
       },
