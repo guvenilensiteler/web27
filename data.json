@@ -755,14 +755,19 @@
 
           {
             "site": "betkanyon",
-            "sort": "2"
+            "sort": "1"
           },
           {
             "site": "sekabet",
-            "sort": "3"
+            "sort": "2"
           },
           {
             "site": "bahisal",
+            "sort": "3"
+          },
+
+          {
+            "site": "reslot",
             "sort": "4"
           },
 
@@ -770,7 +775,6 @@
             "site": "matadorbet",
             "sort": "5"
           },
-
 
           {
             "site": "otobet",
@@ -801,10 +805,7 @@
             "site": "amkbet",
             "sort": "23"
           },
-          {
-            "site": "reslot",
-            "sort": "24"
-          },
+
           {
             "site": "zlot",
             "sort": "25"
