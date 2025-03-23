@@ -767,14 +767,19 @@
 
           {
             "site": "betkanyon",
-            "sort": "1"
+            "sort": "0"
           },
           {
             "site": "sekabet",
-            "sort": "2"
+            "sort": "1"
           },
           {
             "site": "bahisal",
+            "sort": "2"
+          },
+
+          {
+            "site": "yohoho",
             "sort": "3"
           },
 
@@ -795,10 +800,6 @@
           {
             "site": "fixbet",
             "sort": "10"
-          },
-          {
-            "site": "yohoho",
-            "sort": "11"
           },
           {
             "site": "avrupabet",
