@@ -764,35 +764,34 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
-
           {
             "site": "betkanyon",
-            "sort": "0"
-          },
-          {
-            "site": "sekabet",
             "sort": "1"
           },
           {
-            "site": "bahisal",
+            "site": "sekabet",
             "sort": "2"
           },
-
           {
-            "site": "yohoho",
+            "site": "mersobahis",
             "sort": "3"
           },
-
           {
-            "site": "reslot",
+            "site": "bahisal",
             "sort": "4"
           },
-
           {
-            "site": "matadorbet",
+            "site": "yohoho",
             "sort": "5"
           },
-
+          {
+            "site": "reslot",
+            "sort": "6"
+          },
+          {
+            "site": "matadorbet",
+            "sort": "7"
+          },
           {
             "site": "otobet",
             "sort": "9"
@@ -823,11 +822,6 @@
           {
             "site": "zlot",
             "sort": "25"
-          },
-
-          {
-            "site": "mersobahis",
-            "sort": "26"
           }
         ]
       },
