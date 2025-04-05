@@ -675,6 +675,18 @@
         "miktar": "150 FS",
         "promo_code_yok": "1500€ + 150 FS'E KADAR HOŞ GELDİN PAKETİ",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/OgedaySP",
+        "desc": [
+          "200₺ KAYIT BONUSU"
+        ],
+        "site": "spinco",
+        "sort": null,
+        "color": "#1cb322",
+        "miktar": "₺200",
+        "promo_code_yok": "HEMEN ÜYE OL 200₺ BONUS AL",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -766,18 +778,22 @@
         "sites": [
           {
             "site": "betkanyon",
-            "sort": "1"
+            "sort": "0"
           },
           {
             "site": "sekabet",
-            "sort": "2"
+            "sort": "1"
           },
           {
             "site": "mersobahis",
-            "sort": "3"
+            "sort": "2"
           },
           {
             "site": "bahisal",
+            "sort": "3"
+          },
+          {
+            "site": "spinco",
             "sort": "4"
           },
           {
