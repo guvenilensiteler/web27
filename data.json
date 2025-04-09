@@ -687,6 +687,30 @@
         "miktar": "₺200",
         "promo_code_yok": "HEMEN ÜYE OL 200₺ BONUS AL",
         "slider_img": ""
+      },
+      {
+        "url": "https://qstub.click/KA/btag/5_52211",
+        "desc": [
+          "KAYIT BONUSU ÜYE OL, BONUSU AL!"
+        ],
+        "site": "kasino",
+        "sort": null,
+        "color": "#fbd917",
+        "miktar": "₺250",
+        "promo_code_yok": "ÇEKİM LİMİTSİZ KAYIT BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/orsPX9O1",
+        "desc": [
+          "KAYIT BONUSU ÜYE OL, BONUSU AL!"
+        ],
+        "site": "kralbet",
+        "sort": null,
+        "color": "#f9cd47",
+        "miktar": "₺250",
+        "promo_code_yok": "ÇEKİM LİMİTSİZ KAYIT BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -778,54 +802,59 @@
         "sites": [
           {
             "site": "betkanyon",
-            "sort": "0"
-          },
-          {
-            "site": "sekabet",
             "sort": "1"
           },
           {
-            "site": "mersobahis",
+            "site": "sekabet",
             "sort": "2"
           },
           {
-            "site": "bahisal",
+            "site": "mersobahis",
             "sort": "3"
           },
           {
-            "site": "spinco",
+            "site": "bahisal",
             "sort": "4"
           },
           {
-            "site": "yohoho",
+            "site": "spinco",
             "sort": "5"
           },
           {
-            "site": "reslot",
+            "site": "kralbet",
             "sort": "6"
           },
           {
-            "site": "matadorbet",
+            "site": "kasino",
             "sort": "7"
           },
           {
-            "site": "otobet",
+            "site": "matadorbet",
+            "sort": "8"
+          },
+          {
+            "site": "yohoho",
             "sort": "9"
           },
           {
-            "site": "fixbet",
+            "site": "reslot",
             "sort": "10"
           },
-
+          {
+            "site": "otobet",
+            "sort": "11"
+          },
+          {
+            "site": "fixbet",
+            "sort": "12"
+          },
           {
             "site": "sterlinbet",
             "sort": "13"
           },
-
-
           {
             "site": "zlot",
-            "sort": "25"
+            "sort": "14"
           }
         ]
       },
