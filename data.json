@@ -872,10 +872,7 @@
             "site": "betbaba",
             "sort": "9"
           },
-          {
-            "site": "reslot",
-            "sort": "10"
-          },
+
           {
             "site": "otobet",
             "sort": "11"
@@ -887,10 +884,6 @@
           {
             "site": "zlot",
             "sort": "13"
-          },
-          {
-            "site": "betibom",
-            "sort": "14"
           }
         ]
       },
