@@ -4,7 +4,7 @@
     "logo": "",
     "sites": [
       {
-        "url": "https://cutt.ly/VehHXmLu",
+        "url": "https://cutt.ly/0rgXGTUL",
         "desc": [
           "1.500 TL NAKİT - 111 FREE SPIN"
         ],
@@ -16,7 +16,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/Kw43jMQf",
+        "url": "https://cutt.ly/ZrgXHIaR",
         "desc": [
           "KAYIT OL PROMOSYON KODUNU GİR"
         ],
@@ -28,7 +28,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/WewW4Mzf",
+        "url": "https://cutt.ly/HrgXGpCC",
         "desc": [
           "CANLI DESTEĞE BAĞLAN, BONUSUNU AL!"
         ],
@@ -40,7 +40,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/UewEtXZi",
+        "url": "https://cutt.ly/nrgXGwWy",
         "desc": [
           "CANLI DESTEĞE BAĞLAN BONUSUNU AL!"
         ],
@@ -176,7 +176,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/rewEwXnG",
+        "url": "https://cutt.ly/wrgXG4VT",
         "desc": [
           "ÜYE OL DENEME BONUSUNU AL!"
         ],
@@ -310,7 +310,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/XeYeQzlE",
+        "url": "https://cutt.ly/MrgXHoTc",
         "desc": [
           "1.500TL KAYIT BONUSU"
         ],
@@ -881,11 +881,6 @@
             "sort": "8"
           },
           {
-            "site": "betbaba",
-            "sort": "9"
-          },
-
-          {
             "site": "otobet",
             "sort": "11"
           },
@@ -898,12 +893,33 @@
             "sort": "13"
           },
           {
-            "site": "betibom",
+            "site": "bankobet",
             "sort": "14"
           },
           {
-            "site": "slotin",
+            "site": "betewin",
             "sort": "15"
+          },
+          {
+            "site": "betkom",
+            "sort": "16"
+          },
+          {
+            "site": "tarafbet",
+            "sort": "17"
+          },
+          {
+            "site": "bahiscom",
+            "sort": "18"
+          },
+          {
+            "site": "mariobet",
+            "sort": "19"
+          },
+
+          {
+            "site": "slotin",
+            "sort": "20"
           }
         ]
       },
