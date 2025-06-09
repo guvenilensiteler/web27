@@ -759,6 +759,32 @@
         "miktar": "₺1.000",
         "promo_code_yok": "",
         "slider_img": ""
+      },
+      {
+        "url": "https://shortir.online/csrfsa",
+        "desc": [
+          "ÜYE OL 500₺ DENEME BONUSU AL"
+        ],
+        "site": "grandpashabet",
+        "sort": null,
+        "color": "#efb521",
+        "miktar": "₺500",
+        "promo_code": null,
+        "promo_code_yok": "%300 hoş geldin bonusu",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/PrnUpvvx",
+        "desc": [
+          "ÜYE OL 250₺ DENEME BONUSU AL"
+        ],
+        "site": "favoribahis",
+        "sort": null,
+        "color": "#ca3024",
+        "miktar": "₺250",
+        "promo_code": null,
+        "promo_code_yok": "originals'te geçerli",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -850,18 +876,22 @@
         "sites": [
           {
             "site": "betkanyon",
-            "sort": "1"
+            "sort": "0"
           },
           {
             "site": "sekabet",
-            "sort": "2"
+            "sort": "1"
           },
           {
             "site": "misty",
+            "sort": "2"
+          },
+          {
+            "site": "favoribahis",
             "sort": "3"
           },
           {
-            "site": "bahisal",
+            "site": "grandpashabet",
             "sort": "4"
           },
           {
@@ -913,10 +943,13 @@
             "site": "mariobet",
             "sort": "19"
           },
-
           {
             "site": "slotin",
             "sort": "20"
+          },
+          {
+            "site": "bahisal",
+            "sort": "21"
           }
         ]
       },
