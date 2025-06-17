@@ -908,6 +908,10 @@
             "sort": "8"
           },
           {
+            "site": "slotin",
+            "sort": "9"
+          },
+          {
             "site": "otobet",
             "sort": "11"
           },
@@ -942,10 +946,6 @@
           {
             "site": "mariobet",
             "sort": "19"
-          },
-          {
-            "site": "slotin",
-            "sort": "20"
           },
           {
             "site": "bahisal",
