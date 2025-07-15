@@ -53,7 +53,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/ogedayzbahis",
+        "url": "https://cutt.ly/LeWxs8TH",
         "desc": [
           "1.000₺ + 111 FREE SPIN"
         ],
@@ -785,6 +785,19 @@
         "promo_code": null,
         "promo_code_yok": "originals'te geçerli",
         "slider_img": ""
+      },
+      {
+        "url": "https://qruvw.click/wx/btag/2470414_l366711",
+        "desc": [
+          "ÜYE OL 250₺ DENEME BONUSU AL"
+        ],
+        "site": "winxbet",
+        "sort": null,
+        "color": "#fed303",
+        "miktar": "₺250",
+        "promo_code": null,
+        "promo_code_yok": "",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -887,7 +900,7 @@
             "sort": "2"
           },
           {
-            "site": "favoribahis",
+            "site": "winxbet",
             "sort": "3"
           },
           {
@@ -902,9 +915,8 @@
             "site": "kralbet",
             "sort": "6"
           },
-
           {
-            "site": "matadorbet",
+            "site": "zbahis",
             "sort": "8"
           },
           {
@@ -912,40 +924,48 @@
             "sort": "9"
           },
           {
+            "site": "favoribahis",
+            "sort": "10"
+          },
+          {
             "site": "otobet",
             "sort": "11"
           },
           {
-            "site": "fixbet",
+            "site": "matadorbet",
             "sort": "12"
           },
           {
-            "site": "zlot",
+            "site": "fixbet",
             "sort": "13"
           },
           {
-            "site": "bankobet",
+            "site": "zlot",
             "sort": "14"
           },
           {
-            "site": "betewin",
+            "site": "bankobet",
             "sort": "15"
           },
           {
-            "site": "betkom",
+            "site": "betewin",
             "sort": "16"
           },
           {
-            "site": "tarafbet",
+            "site": "betkom",
             "sort": "17"
           },
           {
-            "site": "bahiscom",
+            "site": "tarafbet",
             "sort": "18"
           },
           {
-            "site": "mariobet",
+            "site": "bahiscom",
             "sort": "19"
+          },
+          {
+            "site": "mariobet",
+            "sort": "20"
           },
           {
             "site": "bahisal",
